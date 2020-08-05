@@ -19,7 +19,15 @@
   </url>
   
   <url>
+    <loc>/privacy/</loc>
+  </url>
+  
+  <url>
     <loc>/team/</loc>
+  </url>
+  
+  <url>
+    <loc>/terms/</loc>
   </url>
   
 </urlset>
