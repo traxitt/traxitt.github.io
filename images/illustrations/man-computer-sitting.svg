@@ -1,0 +1,322 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="833" height="573" viewBox="0 0 833 573">
+  <defs>
+    <path id="man-computer-sitting-a" d="M156.589,61.5600049 C108.644,61.57 65.338,46.23 22.267,26.43 L22.267,11.01 C65.79,31.29 109.431,47.27 157.346,47.27 C179.996,47.27 203.6,43.7 228.598,35.32 L228.598,50.21 C201.864,59.18 180.482,61.5600049 156.589,61.5600049 M19.345,25.08 C12.981,22.12 6.615,19.07 0.243,15.97 L0.243,0.45 C6.615,3.57 12.985,6.65 19.345,9.64 L19.345,25.08"/>
+    <linearGradient id="man-computer-sitting-b" x1="-263.982%" x2="100%" y1="-11.291%" y2="-11.291%">
+      <stop offset="0%" stop-color="#FBDFB6"/>
+      <stop offset="100%" stop-color="#FBA6B4"/>
+    </linearGradient>
+    <path id="man-computer-sitting-d" d="M3.267,17.43 C2.293,16.98 1.318,16.53 0.345,16.08 L0.345,0.64 C1.32,1.1 2.291,1.56 3.267,2.01 L3.267,17.43"/>
+    <linearGradient id="man-computer-sitting-e" x1="-21284.018%" x2="7161.328%" y1="-95.83%" y2="-95.83%">
+      <stop offset="0%" stop-color="#ECD2A7"/>
+      <stop offset="100%" stop-color="#EC97A4"/>
+    </linearGradient>
+    <path id="man-computer-sitting-g" d="M81.734,70.3400029 C21.852,70.35 0.793,44.4 0.426,42.75 L0.426,24.63 C0.508,24.94 14.797,56.26 88.577,56.26 C89.017,56.26 89.451,56.26 89.895,56.26 C126.798,56.07 154.033,38.4 185.57,17.94 C192.417,13.5 199.435,8.94 206.758,4.43 L206.758,20.86 C202.122,23.8 197.599,26.74 193.151,29.62 C161.164,50.38 130.923,68.63 89.965,70.19 C87.145,70.29 84.398,70.3400029 81.734,70.3400029 M209.68,19.02 L209.68,2.64 C211.115,1.77 212.565,0.9 214.025,0.04 C218.006,3.05 221.939,6.14 225.841,9.29 C220.269,12.48 214.901,15.75 209.68,19.02"/>
+    <linearGradient id="man-computer-sitting-h" x1="0%" x2="368.73%" y1="37.71%" y2="37.71%">
+      <stop offset="0%" stop-color="#FBDFB6"/>
+      <stop offset="100%" stop-color="#FBA6B4"/>
+    </linearGradient>
+    <path id="man-computer-sitting-j" d="M0.758,18.86 L0.758,2.43 C1.727,1.83 2.7,1.24 3.68,0.64 L3.68,17.02 C2.701,17.64 1.727,18.25 0.758,18.86"/>
+    <linearGradient id="man-computer-sitting-k" x1="-7061.328%" x2="21384.018%" y1="131.23%" y2="131.23%">
+      <stop offset="0%" stop-color="#ECD2A7"/>
+      <stop offset="100%" stop-color="#EC97A4"/>
+    </linearGradient>
+    <path id="man-computer-sitting-m" d="M12.081,44.06 C8.171,40.84 4.228,37.66 0.237,34.53 C27.828,19.6 60.517,6.78 103.895,2.35 C115.906,1.12 127.561,0.54 138.887,0.54 C146.965,0.54 154.88,0.84 162.642,1.39 L162.642,15.4 C154.779,14.8 146.767,14.49 138.582,14.49 C127.791,14.49 116.719,15.04 105.31,16.2 C67.065,20.11 37.355,31.02 12.081,44.06"/>
+    <linearGradient id="man-computer-sitting-n" x1="-139.658%" x2="372.133%" y1="156.273%" y2="156.273%">
+      <stop offset="0%" stop-color="#FBDFB6"/>
+      <stop offset="100%" stop-color="#FBA6B4"/>
+    </linearGradient>
+    <path id="man-computer-sitting-p" d="M370.556,150.090002 C322.716,150.1 284.773,117.92 247.626,86.42 C240.453,80.34 233.209,74.22 225.841,68.29 C230.127,65.83 234.532,63.41 239.081,61.06 C244.998,65.94 250.835,70.88 256.633,75.8 C293.923,107.42 328.014,136.32 370.353,136.32 C376.592,136.32 383.008,135.69 389.642,134.35 L389.642,148.4 C383.102,149.55 376.745,150.090002 370.556,150.090002 M214.025,59.04 C212.584,57.94 211.133,56.86 209.68,55.79 L209.68,38.54 C215.652,42.67 221.493,47.04 227.237,51.53 C222.704,53.98 218.307,56.5 214.025,59.04 M0.426,57.03 L0.426,36.62 C0.982,35.92 10.377,23.72 37.555,12.08 C51.393,6.15 70.482,0.89 94.63,0.89 C113.665,0.89 135.84,4.15 161.083,12.93 C177.394,18.6 192.464,26.89 206.758,36.54 L206.758,53.67 C190.929,42.29 174.349,32.46 156.508,26.09 C134.403,18.19 114.607,15.09 97.158,15.09 C33.343,15.09 0.795,56.57 0.426,57.03"/>
+    <linearGradient id="man-computer-sitting-q" x1="0%" x2="213.663%" y1="41.669%" y2="41.669%">
+      <stop offset="0%" stop-color="#D0F0F6"/>
+      <stop offset="100%" stop-color="#D4DCFA"/>
+    </linearGradient>
+    <path id="man-computer-sitting-s" d="M3.68,19.79 C2.709,19.08 1.735,18.37 0.758,17.67 L0.758,0.54 C1.736,1.2 2.709,1.87 3.68,2.54 L3.68,19.79"/>
+    <linearGradient id="man-computer-sitting-t" x1="-7061.328%" x2="21399.042%" y1="137.767%" y2="137.767%">
+      <stop offset="0%" stop-color="#BCDEE0"/>
+      <stop offset="100%" stop-color="#C1C8E7"/>
+    </linearGradient>
+    <path id="man-computer-sitting-v" d="M228.598,80.55 C182.402,34.15 138.696,15.48 95.31,15.48 C70.996,15.48 46.78,21.34 22.267,31.46 L22.267,15.15 C29.92,12.09 37.553,9.44 45.171,7.25 C61.564,2.55 78.145,0.03 94.783,0.03 C139.973,0.03 185.589,18.56 229.038,62.01 L228.598,80.55 M0.243,41.62 L0.243,25.03 C6.627,21.87 12.993,18.97 19.345,16.34 L19.345,32.69 C12.996,35.39 6.639,38.38 0.243,41.62"/>
+    <linearGradient id="man-computer-sitting-w" x1="-263.475%" x2="100%" y1="108.085%" y2="108.085%">
+      <stop offset="0%" stop-color="#D0F0F6"/>
+      <stop offset="100%" stop-color="#D4DCFA"/>
+    </linearGradient>
+    <path id="man-computer-sitting-y" d="M0.345,17.69 L0.345,1.34 C1.319,0.94 2.293,0.54 3.267,0.15 L3.267,16.46 C2.296,16.86 1.316,17.27 0.345,17.69"/>
+    <linearGradient id="man-computer-sitting-z" x1="-21284.018%" x2="7176.352%" y1="409.978%" y2="409.978%">
+      <stop offset="0%" stop-color="#BCDEE0"/>
+      <stop offset="100%" stop-color="#C1C8E7"/>
+    </linearGradient>
+    <path id="man-computer-sitting-B" d="M425.461,172.3 L227.473,172.3 L227.473,144.05 L224.551,144.05 L224.551,172.3 L27.949,172.3 C25.069,172.3 22.292,171.86 19.68,171.05 L19.68,144.05 L16.758,144.05 L16.758,169.95 C7.03,165.65 0.241,155.91 0.241,144.59 L0.241,28.23 C0.241,12.92 12.646,0.52 27.949,0.52 L425.461,0.52 C440.763,0.52 453.169,12.92 453.169,28.23 L453.169,106.27 L435.267,106.27 L435.267,114.26 L453.169,114.26 L453.169,121.04 L435.267,121.04 L435.267,129.04 L453.169,129.04 L453.169,144.59 C453.169,156.44 445.73,166.56 435.267,170.52 L435.267,144.05 L432.345,144.05 L432.345,171.44 C430.144,172 427.837,172.3 425.461,172.3 L425.461,172.3 Z M227.473,129.04 L269.677,129.04 L269.677,121.04 L227.473,121.04 L227.473,129.04 Z M15.979,129.04 L53.342,129.04 L53.342,121.04 L15.979,121.04 L15.979,129.04 Z M227.473,114.26 L263.682,114.26 L263.682,106.27 L227.473,106.27 L227.473,114.26 Z M15.979,114.26 L74.412,114.26 L74.412,106.27 L15.979,106.27 L15.979,114.26 Z"/>
+    <linearGradient id="man-computer-sitting-C" x1="0%" x2="100%" y1="50%" y2="50%">
+      <stop offset="0%" stop-color="#BDDFF4"/>
+      <stop offset="100%" stop-color="#B3DFFB"/>
+    </linearGradient>
+    <path id="man-computer-sitting-E" d="M3.68,27.05 C2.681,26.73 1.705,26.37 0.758,25.95 L0.758,0.05 L3.68,0.05 L3.68,27.05"/>
+    <linearGradient id="man-computer-sitting-F" x1="-565.27%" x2="14935.346%" y1="-213.481%" y2="-213.481%">
+      <stop offset="0%" stop-color="#ACCEE1"/>
+      <stop offset="100%" stop-color="#A1CEEA"/>
+    </linearGradient>
+    <linearGradient id="man-computer-sitting-H" x1="-7676.598%" x2="7824.018%" y1="-204.035%" y2="-204.035%">
+      <stop offset="0%" stop-color="#ACCEE1"/>
+      <stop offset="100%" stop-color="#A1CEEA"/>
+    </linearGradient>
+    <path id="man-computer-sitting-I" d="M0.345,27.44 L0.345,0.05 L3.267,0.05 L3.267,26.52 C2.317,26.88 1.341,27.19 0.345,27.44"/>
+    <linearGradient id="man-computer-sitting-J" x1="-14787.96%" x2="712.656%" y1="-210.441%" y2="-210.441%">
+      <stop offset="0%" stop-color="#ACCEE1"/>
+      <stop offset="100%" stop-color="#A1CEEA"/>
+    </linearGradient>
+    <linearGradient id="man-computer-sitting-L" x1="-26.934%" x2="748.19%" y1="-248.558%" y2="-248.558%">
+      <stop offset="0%" stop-color="#A8C9DD"/>
+      <stop offset="100%" stop-color="#9DC9E4"/>
+    </linearGradient>
+    <linearGradient id="man-computer-sitting-M" x1="-42.122%" x2="1170.114%" y1="-432.873%" y2="-432.873%">
+      <stop offset="0%" stop-color="#A8C9DD"/>
+      <stop offset="100%" stop-color="#9DC9E4"/>
+    </linearGradient>
+    <linearGradient id="man-computer-sitting-N" x1="-627.557%" x2="623.314%" y1="-248.558%" y2="-248.558%">
+      <stop offset="0%" stop-color="#A8C9DD"/>
+      <stop offset="100%" stop-color="#9DC9E4"/>
+    </linearGradient>
+    <linearGradient id="man-computer-sitting-O" x1="-538.414%" x2="534.773%" y1="-432.873%" y2="-432.873%">
+      <stop offset="0%" stop-color="#A8C9DD"/>
+      <stop offset="100%" stop-color="#9DC9E4"/>
+    </linearGradient>
+    <linearGradient id="man-computer-sitting-P" x1="-2430.042%" x2="99.999%" y1="-248.558%" y2="-248.558%">
+      <stop offset="0%" stop-color="#A8C9DD"/>
+      <stop offset="100%" stop-color="#9DC9E4"/>
+    </linearGradient>
+    <linearGradient id="man-computer-sitting-Q" x1="-2430.042%" x2="99.999%" y1="-432.873%" y2="-432.873%">
+      <stop offset="0%" stop-color="#A8C9DD"/>
+      <stop offset="100%" stop-color="#9DC9E4"/>
+    </linearGradient>
+    <path id="man-computer-sitting-R" d="M58.593,11.64 C33.082,11.64 12.325,32.39 12.325,57.91 C12.325,83.42 33.082,104.17 58.593,104.17 C84.105,104.17 104.862,83.42 104.862,57.91 C104.862,32.39 84.105,11.64 58.593,11.64 Z M58.593,115.75 C26.7,115.75 0.753,89.8 0.753,57.91 C0.753,26.01 26.7,0.07 58.593,0.07 C90.487,0.07 116.434,26.01 116.434,57.91 C116.434,89.8 90.487,115.75 58.593,115.75 L58.593,115.75 Z"/>
+    <linearGradient id="man-computer-sitting-S" x1="102.65%" x2="7.257%" y1="-114.894%" y2="183.863%">
+      <stop offset="0%" stop-color="#40D4E6"/>
+      <stop offset="100%" stop-color="#5477FF"/>
+    </linearGradient>
+    <path id="man-computer-sitting-U" d="M199.974,114.23 L28.473,114.23 L28.473,72.12 C43.004,66.08 58.424,57.07 74.906,44.47 C94.856,29.21 114.224,14.44 133.152,0.78 C152.768,9.47 171.817,18.95 190.702,28.34 C198.585,32.26 206.42,36.15 214.243,39.97 L214.243,99.96 C214.243,107.84 207.855,114.23 199.974,114.23 M25.551,114.23 L14.91,114.23 C7.03,114.23 0.642,107.84 0.642,99.96 L0.642,80.4 C8.656,78.99 16.944,76.67 25.551,73.3 L25.551,114.23"/>
+    <linearGradient id="man-computer-sitting-V" x1="50%" x2="50%" y1="112.164%" y2="-181.699%">
+      <stop offset="0%" stop-color="#AAD1F8"/>
+      <stop offset="100%" stop-color="#C8EEFD"/>
+    </linearGradient>
+    <path id="man-computer-sitting-X" d="M3.473,42.23 L0.551,42.23 L0.551,1.3 C1.52,0.92 2.496,0.53 3.473,0.12 L3.473,42.23"/>
+    <linearGradient id="man-computer-sitting-Y" x1="2802.567%" x2="2802.567%" y1="132.771%" y2="-658.934%">
+      <stop offset="0%" stop-color="#A2CAF3"/>
+      <stop offset="100%" stop-color="#C2E8F7"/>
+    </linearGradient>
+    <path id="man-computer-sitting-aa" d="M68.243,75.45 C62.475,72.62 56.701,69.75 50.903,66.87 C34.259,58.59 17.491,50.25 0.316,42.41 C23.484,26.19 46.021,11.87 68.243,0.62 L68.243,75.45"/>
+    <linearGradient id="man-computer-sitting-ab" x1="-57.229%" x2="-57.229%" y1="238.42%" y2="-207.105%">
+      <stop offset="0%" stop-color="#AAD1F8"/>
+      <stop offset="100%" stop-color="#C8EEFD"/>
+    </linearGradient>
+    <path id="man-computer-sitting-ad" d="M0.642,102.35 L0.642,0.4 C9.116,1.05 17.414,2.02 25.551,3.28 L25.551,94.3 C16.892,98.11 8.613,100.74 0.642,102.35 M28.473,92.98 L28.473,3.75 C60.432,8.99 89.937,18.66 118.116,30.33 C101.12,42.85 83.914,56.05 66.447,69.4 C52.973,79.71 40.37,87.44 28.473,92.98"/>
+    <linearGradient id="man-computer-sitting-ae" x1="90.914%" x2="90.914%" y1="160.5%" y2="-166.51%">
+      <stop offset="0%" stop-color="#AAD1F8"/>
+      <stop offset="100%" stop-color="#C8EEFD"/>
+    </linearGradient>
+    <path id="man-computer-sitting-ag" d="M0.551,91.3 L0.551,0.28 C1.524,0.43 2.504,0.59 3.473,0.75 L3.473,89.98 C2.494,90.44 1.52,90.88 0.551,91.3"/>
+    <linearGradient id="man-computer-sitting-ah" x1="2802.567%" x2="2802.567%" y1="176.61%" y2="-189.669%">
+      <stop offset="0%" stop-color="#A2CAF3"/>
+      <stop offset="100%" stop-color="#C2E8F7"/>
+    </linearGradient>
+    <path id="man-computer-sitting-aj" d="M131.281,67.74 C99.219,53.94 65.524,42.38 28.473,36.57 L28.473,0.21 L199.974,0.21 C207.855,0.21 214.243,6.6 214.243,14.48 L214.243,16.03 C186.984,29.5 159.406,47.51 131.281,67.74 M25.551,36.13 C17.418,34.93 9.117,34 0.642,33.39 L0.642,14.48 C0.642,6.6 7.03,0.21 14.91,0.21 L25.551,0.21 L25.551,36.13"/>
+    <linearGradient id="man-computer-sitting-ak" x1="50%" x2="50%" y1="312.187%" y2="-181.5%">
+      <stop offset="0%" stop-color="#AAD1F8"/>
+      <stop offset="100%" stop-color="#C8EEFD"/>
+    </linearGradient>
+    <path id="man-computer-sitting-am" d="M3.473,36.57 C2.497,36.42 1.532,36.27 0.551,36.13 L0.551,0.21 L3.473,0.21 L3.473,36.57"/>
+    <linearGradient id="man-computer-sitting-an" x1="2802.567%" x2="2802.567%" y1="579.813%" y2="-337.093%">
+      <stop offset="0%" stop-color="#A2CAF3"/>
+      <stop offset="100%" stop-color="#C2E8F7"/>
+    </linearGradient>
+    <polyline id="man-computer-sitting-ap" points="81.542 46.92 .618 .2 .618 93.64 81.542 46.92"/>
+    <linearGradient id="man-computer-sitting-aq" x1="50%" x2="50%" y1="-96.854%" y2="172.689%">
+      <stop offset="0%" stop-color="#40D4E6"/>
+      <stop offset="100%" stop-color="#5477FF"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <polygon fill="#E0E0E0" points="206.758 450.66 209.68 450.66 209.68 144.05 206.758 144.05"/>
+    <polygon fill="#E0E0E0" points="414.551 450.66 417.473 450.66 417.473 144.05 414.551 144.05"/>
+    <polygon fill="#E0E0E0" points="622.345 450.66 625.267 450.66 625.267 144.05 622.345 144.05"/>
+    <polygon fill="#D9D9D9" points=".426 114.26 50.197 114.26 50.197 106.27 .426 106.27"/>
+    <polygon fill="#D9D9D9" points=".426 129.04 71.025 129.04 71.025 121.04 .426 121.04"/>
+    <polygon fill="#D9D9D9" points="205.979 114.26 264.412 114.26 264.412 106.27 205.979 106.27"/>
+    <polygon fill="#D9D9D9" points="205.979 129.04 243.342 129.04 243.342 121.04 205.979 121.04"/>
+    <polygon fill="#D9D9D9" points="417.473 114.26 453.682 114.26 453.682 106.27 417.473 106.27"/>
+    <polygon fill="#D9D9D9" points="417.473 129.04 459.677 129.04 459.677 121.04 417.473 121.04"/>
+    <polygon fill="#D9D9D9" points="625.267 114.26 678.01 114.26 678.01 106.27 625.267 106.27"/>
+    <polygon fill="#D9D9D9" points="625.267 129.04 667.47 129.04 667.47 121.04 625.267 121.04"/>
+    <g transform="translate(603 298)">
+      <mask id="man-computer-sitting-c" fill="#fff">
+        <use xlink:href="#man-computer-sitting-a"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-b)" d="M156.589,61.5600049 C108.644,61.57 65.338,46.23 22.267,26.43 L22.267,11.01 C65.79,31.29 109.431,47.27 157.346,47.27 C179.996,47.27 203.6,43.7 228.598,35.32 L228.598,50.21 C201.864,59.18 180.482,61.5600049 156.589,61.5600049 M19.345,25.08 C12.981,22.12 6.615,19.07 0.243,15.97 L0.243,0.45 C6.615,3.57 12.985,6.65 19.345,9.64 L19.345,25.08" mask="url(#man-computer-sitting-c)"/>
+    </g>
+    <g transform="translate(622 307)">
+      <mask id="man-computer-sitting-f" fill="#fff">
+        <use xlink:href="#man-computer-sitting-d"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-e)" d="M3.267,17.43 C2.293,16.98 1.318,16.53 0.345,16.08 L0.345,0.64 C1.32,1.1 2.291,1.56 3.267,2.01 L3.267,17.43" mask="url(#man-computer-sitting-f)"/>
+    </g>
+    <g transform="translate(0 265)">
+      <mask id="man-computer-sitting-i" fill="#fff">
+        <use xlink:href="#man-computer-sitting-g"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-h)" d="M81.734,70.3400029 C21.852,70.35 0.793,44.4 0.426,42.75 L0.426,24.63 C0.508,24.94 14.797,56.26 88.577,56.26 C89.017,56.26 89.451,56.26 89.895,56.26 C126.798,56.07 154.033,38.4 185.57,17.94 C192.417,13.5 199.435,8.94 206.758,4.43 L206.758,20.86 C202.122,23.8 197.599,26.74 193.151,29.62 C161.164,50.38 130.923,68.63 89.965,70.19 C87.145,70.29 84.398,70.3400029 81.734,70.3400029 M209.68,19.02 L209.68,2.64 C211.115,1.77 212.565,0.9 214.025,0.04 C218.006,3.05 221.939,6.14 225.841,9.29 C220.269,12.48 214.901,15.75 209.68,19.02" mask="url(#man-computer-sitting-i)"/>
+    </g>
+    <g transform="translate(206 267)">
+      <mask id="man-computer-sitting-l" fill="#fff">
+        <use xlink:href="#man-computer-sitting-j"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-k)" d="M0.758,18.86 L0.758,2.43 C1.727,1.83 2.7,1.24 3.68,0.64 L3.68,17.02 C2.701,17.64 1.727,18.25 0.758,18.86" mask="url(#man-computer-sitting-l)"/>
+    </g>
+    <g transform="translate(227 223)">
+      <mask id="man-computer-sitting-o" fill="#fff">
+        <use xlink:href="#man-computer-sitting-m"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-n)" d="M12.081,44.06 C8.171,40.84 4.228,37.66 0.237,34.53 C27.828,19.6 60.517,6.78 103.895,2.35 C115.906,1.12 127.561,0.54 138.887,0.54 C146.965,0.54 154.88,0.84 162.642,1.39 L162.642,15.4 C154.779,14.8 146.767,14.49 138.582,14.49 C127.791,14.49 116.719,15.04 105.31,16.2 C67.065,20.11 37.355,31.02 12.081,44.06" mask="url(#man-computer-sitting-o)"/>
+    </g>
+    <g transform="translate(0 206)">
+      <mask id="man-computer-sitting-r" fill="#fff">
+        <use xlink:href="#man-computer-sitting-p"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-q)" d="M370.556,150.090002 C322.716,150.1 284.773,117.92 247.626,86.42 C240.453,80.34 233.209,74.22 225.841,68.29 C230.127,65.83 234.532,63.41 239.081,61.06 C244.998,65.94 250.835,70.88 256.633,75.8 C293.923,107.42 328.014,136.32 370.353,136.32 C376.592,136.32 383.008,135.69 389.642,134.35 L389.642,148.4 C383.102,149.55 376.745,150.090002 370.556,150.090002 M214.025,59.04 C212.584,57.94 211.133,56.86 209.68,55.79 L209.68,38.54 C215.652,42.67 221.493,47.04 227.237,51.53 C222.704,53.98 218.307,56.5 214.025,59.04 M0.426,57.03 L0.426,36.62 C0.982,35.92 10.377,23.72 37.555,12.08 C51.393,6.15 70.482,0.89 94.63,0.89 C113.665,0.89 135.84,4.15 161.083,12.93 C177.394,18.6 192.464,26.89 206.758,36.54 L206.758,53.67 C190.929,42.29 174.349,32.46 156.508,26.09 C134.403,18.19 114.607,15.09 97.158,15.09 C33.343,15.09 0.795,56.57 0.426,57.03" mask="url(#man-computer-sitting-r)"/>
+    </g>
+    <g transform="translate(206 242)">
+      <mask id="man-computer-sitting-u" fill="#fff">
+        <use xlink:href="#man-computer-sitting-s"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-t)" d="M3.68,19.79 C2.709,19.08 1.735,18.37 0.758,17.67 L0.758,0.54 C1.736,1.2 2.709,1.87 3.68,2.54 L3.68,19.79" mask="url(#man-computer-sitting-u)"/>
+    </g>
+    <image width="26.904" height="18.384" x="213.148" y="256.828" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAAmCAYAAACRWlj1AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAOKADAAQAAAABAAAAJgAAAADSh0GwAAAAi0lEQVRoBe3SwQ1AQABE0aX/phTgph8KWMk/Sb7Nd1wTxjzbdR73oIsT9IT5/hfPnN8y9pezpY76wL9zJpigfIF+UTkQ1ksQJ5IHEpQDYb0EcSJ5IEE5ENZLECeSBxKUA2G9BHEieSBBORDWSxAnkgcSlANhvQRxInkgQTkQ1ksQJ5IHEpQDYb3lBR/cEAWrUWvyZQAAAABJRU5ErkJggg=="/>
+    <g transform="translate(603 182)">
+      <mask id="man-computer-sitting-x" fill="#fff">
+        <use xlink:href="#man-computer-sitting-v"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-w)" d="M228.598,80.55 C182.402,34.15 138.696,15.48 95.31,15.48 C70.996,15.48 46.78,21.34 22.267,31.46 L22.267,15.15 C29.92,12.09 37.553,9.44 45.171,7.25 C61.564,2.55 78.145,0.03 94.783,0.03 C139.973,0.03 185.589,18.56 229.038,62.01 L228.598,80.55 M0.243,41.62 L0.243,25.03 C6.627,21.87 12.993,18.97 19.345,16.34 L19.345,32.69 C12.996,35.39 6.639,38.38 0.243,41.62" mask="url(#man-computer-sitting-x)"/>
+    </g>
+    <g transform="translate(622 197)">
+      <mask id="man-computer-sitting-A" fill="#fff">
+        <use xlink:href="#man-computer-sitting-y"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-z)" d="M0.345,17.69 L0.345,1.34 C1.319,0.94 2.293,0.54 3.267,0.15 L3.267,16.46 C2.296,16.86 1.316,17.27 0.345,17.69" mask="url(#man-computer-sitting-A)"/>
+    </g>
+    <g transform="translate(190)">
+      <mask id="man-computer-sitting-D" fill="#fff">
+        <use xlink:href="#man-computer-sitting-B"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-C)" d="M425.461,172.3 L227.473,172.3 L227.473,144.05 L224.551,144.05 L224.551,172.3 L27.949,172.3 C25.069,172.3 22.292,171.86 19.68,171.05 L19.68,144.05 L16.758,144.05 L16.758,169.95 C7.03,165.65 0.241,155.91 0.241,144.59 L0.241,28.23 C0.241,12.92 12.646,0.52 27.949,0.52 L425.461,0.52 C440.763,0.52 453.169,12.92 453.169,28.23 L453.169,106.27 L435.267,106.27 L435.267,114.26 L453.169,114.26 L453.169,121.04 L435.267,121.04 L435.267,129.04 L453.169,129.04 L453.169,144.59 C453.169,156.44 445.73,166.56 435.267,170.52 L435.267,144.05 L432.345,144.05 L432.345,171.44 C430.144,172 427.837,172.3 425.461,172.3 L425.461,172.3 Z M227.473,129.04 L269.677,129.04 L269.677,121.04 L227.473,121.04 L227.473,129.04 Z M15.979,129.04 L53.342,129.04 L53.342,121.04 L15.979,121.04 L15.979,129.04 Z M227.473,114.26 L263.682,114.26 L263.682,106.27 L227.473,106.27 L227.473,114.26 Z M15.979,114.26 L74.412,114.26 L74.412,106.27 L15.979,106.27 L15.979,114.26 Z" mask="url(#man-computer-sitting-D)"/>
+    </g>
+    <g transform="translate(206 144)">
+      <mask id="man-computer-sitting-G" fill="#fff">
+        <use xlink:href="#man-computer-sitting-E"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-F)" d="M3.68,27.05 C2.681,26.73 1.705,26.37 0.758,25.95 L0.758,0.05 L3.68,0.05 L3.68,27.05" mask="url(#man-computer-sitting-G)"/>
+    </g>
+    <polygon fill="url(#man-computer-sitting-H)" points="414.551 172.3 417.473 172.3 417.473 144.05 414.551 144.05"/>
+    <g transform="translate(622 144)">
+      <mask id="man-computer-sitting-K" fill="#fff">
+        <use xlink:href="#man-computer-sitting-I"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-J)" d="M0.345,27.44 L0.345,0.05 L3.267,0.05 L3.267,26.52 C2.317,26.88 1.341,27.19 0.345,27.44" mask="url(#man-computer-sitting-K)"/>
+    </g>
+    <polygon fill="url(#man-computer-sitting-L)" points="205.979 114.26 264.412 114.26 264.412 106.27 205.979 106.27"/>
+    <polygon fill="url(#man-computer-sitting-M)" points="205.979 129.04 243.342 129.04 243.342 121.04 205.979 121.04"/>
+    <polygon fill="url(#man-computer-sitting-N)" points="417.473 114.26 453.682 114.26 453.682 106.27 417.473 106.27"/>
+    <polygon fill="url(#man-computer-sitting-O)" points="417.473 129.04 459.677 129.04 459.677 121.04 417.473 121.04"/>
+    <polygon fill="url(#man-computer-sitting-P)" points="625.267 114.26 643.169 114.26 643.169 106.27 625.267 106.27"/>
+    <polygon fill="url(#man-computer-sitting-Q)" points="625.267 129.04 643.169 129.04 643.169 121.04 625.267 121.04"/>
+    <g transform="translate(486 31)">
+      <mask id="man-computer-sitting-T" fill="#fff">
+        <use xlink:href="#man-computer-sitting-R"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-S)" d="M58.593,11.64 C33.082,11.64 12.325,32.39 12.325,57.91 C12.325,83.42 33.082,104.17 58.593,104.17 C84.105,104.17 104.862,83.42 104.862,57.91 C104.862,32.39 84.105,11.64 58.593,11.64 Z M58.593,115.75 C26.7,115.75 0.753,89.8 0.753,57.91 C0.753,26.01 26.7,0.07 58.593,0.07 C90.487,0.07 116.434,26.01 116.434,57.91 C116.434,89.8 90.487,115.75 58.593,115.75 L58.593,115.75 Z" mask="url(#man-computer-sitting-T)"/>
+    </g>
+    <polygon fill="#FFF" points="291.188 60.04 449.32 60.04 449.32 46.13 291.188 46.13"/>
+    <polygon fill="#FFF" points="314.515 95.86 449.32 95.86 449.32 81.96 314.515 81.96"/>
+    <polygon fill="#FFF" points="232.555 131.68 449.32 131.68 449.32 117.78 232.555 117.78"/>
+    <g transform="translate(389 274)">
+      <mask id="man-computer-sitting-W" fill="#fff">
+        <use xlink:href="#man-computer-sitting-U"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-V)" d="M199.974,114.23 L28.473,114.23 L28.473,72.12 C43.004,66.08 58.424,57.07 74.906,44.47 C94.856,29.21 114.224,14.44 133.152,0.78 C152.768,9.47 171.817,18.95 190.702,28.34 C198.585,32.26 206.42,36.15 214.243,39.97 L214.243,99.96 C214.243,107.84 207.855,114.23 199.974,114.23 M25.551,114.23 L14.91,114.23 C7.03,114.23 0.642,107.84 0.642,99.96 L0.642,80.4 C8.656,78.99 16.944,76.67 25.551,73.3 L25.551,114.23" mask="url(#man-computer-sitting-W)"/>
+    </g>
+    <g transform="translate(414 346)">
+      <mask id="man-computer-sitting-Z" fill="#fff">
+        <use xlink:href="#man-computer-sitting-X"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-Y)" d="M3.473,42.23 L0.551,42.23 L0.551,1.3 C1.52,0.92 2.496,0.53 3.473,0.12 L3.473,42.23" mask="url(#man-computer-sitting-Z)"/>
+    </g>
+    <g transform="translate(535 223)">
+      <mask id="man-computer-sitting-ac" fill="#fff">
+        <use xlink:href="#man-computer-sitting-aa"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-ab)" d="M68.243,75.45 C62.475,72.62 56.701,69.75 50.903,66.87 C34.259,58.59 17.491,50.25 0.316,42.41 C23.484,26.19 46.021,11.87 68.243,0.62 L68.243,75.45" mask="url(#man-computer-sitting-ac)"/>
+    </g>
+    <image width="82.584" height="50.064" x="521.308" y="264.508" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKwAAABoCAYAAABsSBt6AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAArKADAAQAAAABAAAAaAAAAADrkdLCAAAC8UlEQVR4Ae3cwU0sMRRE0eFr8k+HKAjkRwESbNn4yeNS4cMS2f3Kt668QN28vX/8/3z4eTxQeL0FGxj/e31KExDYR4Cw+1h60gEChD0A2Yh9BAi7j6UnHSBA2AOQjdhHgLD7WHrSAQKEPQDZiH0ECLuPpScdIEDYA5CN2EeAsPtYetIBAoQ9ANmIfQQIu4+lJx0g8NzwPsKBmEYg8EPADcuEKgKErapLWMJyoIoAYavqEpawHKgi8PRpSKAvf5oZQ3fDjtHZmCBA2AR1M8cECDtGZ2OCAGET1M0cEyDsGJ2NCQKETVA3c0yAsGN0NiYIEDZB3cwxAcKO0dmYIEDYBHUzxwQIO0ZnY4IAYRPUzRwTIOwYnY0JAoRNUDdzTICwY3Q2Jgg8fx3qfc1fsdT+8g/16YattfDO4IS9s/faUxO2tro7gxP2zt5rT03Y2uruDE7YO3uvPTVha6u7Mzhh7+y99tSEra3uzuCEvbP32lP7h8a11d0Z3A17Z++1pyZsbXV3Bifsnb3XnpqwtdXdGTz//2H/0Luadyq0cOoNXbthF3hbmidA2HwHEiwQIOwCLEvzBAib70CCBQKEXYBlaZ4AYfMdSLBAgLALsCzNEyBsvgMJFggQdgGWpXkChM13IMECAcIuwLI0T4Cw+Q4kWCBA2AVYluYJ+EQm34EECwTcsAuwLM0TIGy+AwkWCBB2AZaleQKEzXcgwQKB/CcyC2FfunTD5xsvzefh3wTcsESoIkDYqrqEJSwHqggQtqouYQnLgSoChK2qS1jCcqCKAGGr6hKWsByoIkDYqrqE9T4sB6oIuGGr6hKWsByoIkDYqrqEJSwHqggQtqouYb3AnXDAy+Jj6m7YMTobEwQIm6Bu5pgAYcfobEwQIGyCupljAoQdo7MxQYCwCepmjgkQdozOxgQBwiaomzkmQNgxOhsTBAiboG7mmABhx+hsTBAgbIK6mWMChB2jszFBgLAJ6maOCRB2jM7GBAHCJqibOSbwBai9FT0AnVpIAAAAAElFTkSuQmCC"/>
+    <g transform="translate(389 238)">
+      <mask id="man-computer-sitting-af" fill="#fff">
+        <use xlink:href="#man-computer-sitting-ad"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-ae)" d="M0.642,102.35 L0.642,0.4 C9.116,1.05 17.414,2.02 25.551,3.28 L25.551,94.3 C16.892,98.11 8.613,100.74 0.642,102.35 M28.473,92.98 L28.473,3.75 C60.432,8.99 89.937,18.66 118.116,30.33 C101.12,42.85 83.914,56.05 66.447,69.4 C52.973,79.71 40.37,87.44 28.473,92.98" mask="url(#man-computer-sitting-af)"/>
+    </g>
+    <g transform="translate(414 241)">
+      <mask id="man-computer-sitting-ai" fill="#fff">
+        <use xlink:href="#man-computer-sitting-ag"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-ah)" d="M0.551,91.3 L0.551,0.28 C1.524,0.43 2.504,0.59 3.473,0.75 L3.473,89.98 C2.494,90.44 1.52,90.88 0.551,91.3" mask="url(#man-computer-sitting-ai)"/>
+    </g>
+    <g transform="translate(389 191)">
+      <mask id="man-computer-sitting-al" fill="#fff">
+        <use xlink:href="#man-computer-sitting-aj"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-ak)" d="M131.281,67.74 C99.219,53.94 65.524,42.38 28.473,36.57 L28.473,0.21 L199.974,0.21 C207.855,0.21 214.243,6.6 214.243,14.48 L214.243,16.03 C186.984,29.5 159.406,47.51 131.281,67.74 M25.551,36.13 C17.418,34.93 9.117,34 0.642,33.39 L0.642,14.48 C0.642,6.6 7.03,0.21 14.91,0.21 L25.551,0.21 L25.551,36.13" mask="url(#man-computer-sitting-al)"/>
+    </g>
+    <g transform="translate(414 191)">
+      <mask id="man-computer-sitting-ao" fill="#fff">
+        <use xlink:href="#man-computer-sitting-am"/>
+      </mask>
+      <path fill="url(#man-computer-sitting-an)" d="M3.473,36.57 C2.497,36.42 1.532,36.27 0.551,36.13 L0.551,0.21 L3.473,0.21 L3.473,36.57" mask="url(#man-computer-sitting-ao)"/>
+    </g>
+    <image width="132.024" height="45.264" x="388.828" y="223.708" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAABeCAYAAAAAGPC+AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAABE6ADAAQAAAABAAAAXgAAAABvXnq/AAADi0lEQVR4Ae3cwW0dMQwFQCf4/TeUMtJFmnB8MaCjLb8lJHJyiQ5eShoSD+uD99efv//e3/z7ngCx73md/tP6GenQ70gVRQgQGC8gTMaPAAACGQFhknFUhcB4AWEyfgQAEMgICJOMoyoExgsIk/EjAIBARkCYZBxVITBeQJiMHwEABDICwiTjqAqB8QLCZPwIACCQERAmGUdVCIwXECbjRwAAgYyAMMk4qkJgvIAwGT8CAAhkBIRJxlEVAuMFXu++5XD+EOjR+T1aTzi0X95M1iGwJkBgW0CYbNN5kACBVUCYrBrWBAhsCwiTbToPEiCwCgiTVcOaAIFtAWGyTedBAgRWAWGyalgTILAtIEy26TxIgMAqIExWDWsCBLYFhMk2nQcJEFgFhMmqYU2AwLaAMNmm8yABAquAMFk1rAkQ2BYQJtt0HiRAYBUQJquGNQEC2wLCZJvOgwQIrAKvL3/H5cs/uJa3PlJAL49sS+mhHpgBbyalHbQZgb4CwqRvb92MQKmAMCnlthmBvgLCpG9v3YxAqYAwKeW2GYG+AsKkb2/djECpgDAp5bYZgb4CwqRvb92MQKmAMCnlthmBvgLCpG9v3YxAqYAwKeW2GYG+AsKkb2/djECpgDAp5bYZgb4CwqRvb92MQKmAMCnlthmBvgLCpG9v3YxAqYAwKeW2GYG+AsKkb2/djECpwOvtgc+3ld7gc7Mu9/i8z/T/9fO6CfBmcl3LHJjAmQLC5My+OBWB6wSEyXUtc2ACZwoIkzP74lQErhMQJte1zIEJnCkgTM7si1MRuE5AmFzXMgcmcKaAMDmzL05F4DoBYXJdyxyYwJkCwuTMvjgVgesEhMl1LXNgAmcKCJMz++JUBK4TePl7qut65sAEjhTwZnJkWxyKwH0CwuS+njkxgSMF+nzPpJLX74aV2s/vpZ8RY28mEUZFCBAQJmaAAIGIgDCJMCpCgIAwMQMECEQEhEmEURECBISJGSBAICIgTCKMihAgIEzMAAECEQFhEmFUhAABYWIGCBCICAiTCKMiBAgIEzNAgEBEQJhEGBUhQODj40j+ZNIYECDwcwFvJj83VIEAgQ8BYWIMCBCICPg4UoTx4SJ+E30YOFx+aL+8mYTnSDkCUwWEydTOuzeBsIAwCYMqR2CqgDCZ2nn3JhAWECZhUOUITBUQJlM7794EwgLCJAyqHIGpAsJkaufdm0BY4D/HnBor18k4wwAAAABJRU5ErkJggg=="/>
+    <image width="4.344" height="15.984" x="413.788" y="226.588" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAhCAYAAAALboFLAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAACaADAAQAAAABAAAAIQAAAADe8/1kAAAAL0lEQVQ4EWPcfv7ZfwYCgImAPFh6VBEDUUHA8p9geDMQZxJR1o0qGg1MBobhnegAQ/sHrQLPex8AAAAASUVORK5CYII="/>
+    <image width="133.944" height="87.984" x="388.828" y="267.388" xlink:href="data:image/png;base64,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"/>
+    <image width="4.344" height="17.904" x="413.788" y="330.268" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAAlCAYAAACQ/8NdAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAACaADAAQAAAABAAAAJQAAAAArc1ukAAAAMElEQVQ4EWNceO7LfwYCgIWBoBIGBiYChoClRxWNhtPgTCpDNo2zEJE3RxMd3RMdAPnoBq9gpc8yAAAAAElFTkSuQmCC"/>
+    <image width="84.504" height="59.664" x="519.388" y="206.428" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALAAAAB8CAYAAADJnTqRAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAsKADAAQAAAABAAAAfAAAAAD8uBKsAAADx0lEQVR4Ae3cQW4bMQwF0LqY+x+m9+lNCqRZaRWAgE39oezX1SCQSfrxR+hikMefv/++fvn3dgKPt/tGP3+h6+cfH/pTv4qHLu75sX8//1GfJHC/wPcN7Nq6fw39E3zKVt3A/dlRMSggwEFsrfoFBLjfVMWggAAHsbXqFxDgflMVgwICHMTWql9AgPtNVQwKCHAQW6t+AQHuN1UxKCDAQWyt+gUEuN9UxaCAAAexteoXEOB+UxWDApeX0YLa79zqptff3MDvHKoP+G4C/AFLfueveN1087+zqe8WFHADB7G16hcQ4H5TFYMCAhzE1qpfQID7TVUMCghwEFurfgEB7jdVMSggwEFsrfoFBLjfVMWggAAHsbXqFxDgflMVgwICHMTWql9AgPtNVQwKeB84iK1Vv4AbuN9UxaCAAAexteoX8D5wv6mKQQE3cBBbq34BAe43VTEoIMBBbK36BQS431TFoIAAB7G16hcQ4H5TFYMCAhzE1qpfQID7TVUMCghwEFurfgEB7jdVMSggwEFsrfoFBLjfVMWggAAHsbXqFxDgflMVgwICHMTWql/g+vIHgvtVB1R8DJghMYIbOKGsxzYBAd5Gq3BCQIATynpsExDgbbQKJwQEOKGsxzYBAd5Gq3BCQIATynpsExDgbbQKJwQEOKGsxzYBAd5Gq3BCQIATynpsExDgbbQKJwQEOKGsxzYBAd5Gq3BCQIATynpsExDgbbQKJwSuRJNYDy/nL+pPoXADr5V7OFFAgE/cmpmXgAAvCg8nCgjwiVsz8xIQ4EXh4UQBAT5xa2ZeAgK8KDycKCDAJ27NzEtAgBeFhxMFBPjErZl5CQjwovBwooAAn7g1My8BAV4UHk4UEOATt2bmJSDAi8LDiQLXp7w3euJyzFwLuIFrIycGCwjw4OUYrRa4fvk/RK3kRC1wU47cwPVqnBgsIMCDl2O0WkCAayMnBgsI8ODlGK0WEODayInBAgI8eDlGqwUEuDZyYrCAAA9ejtFqAQGujZwYLCDAg5djtFpAgGsjJwYLCPDg5RitFvA+cG3kxGABN/Dg5RitFhDg2siJwQLeBx68HKPVAm7g2siJwQICPHg5RqsFBLg2cmKwgAAPXo7RagEBro2cGCwgwIOXY7RaQIBrIycGCwjw4OUYrRYQ4NrIicECAjx4OUarBQS4NnJisIAAD16O0WoBAa6NnBgs8P1C+01/VnAwyjuM9nj6Szz/yadbvvBBN/ALeD56v4AA378DE7wg4IX2F/B89H4BN/D9OzDBCwIC/AKej94v8B+vLxiO4LE6CQAAAABJRU5ErkJggg=="/>
+    <image width="29.784" height="17.904" x="506.428" y="257.788" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD4AAAAlCAYAAAAa0FocAAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAPqADAAQAAAABAAAAJQAAAAAyE4xoAAAAhklEQVRoBe2YsQ2AMADDAPX/U7iEV7gBEIPnzrWZMrA4DhLtfl73swmfQ8j8IwduM5/xjEsaaOoS0WBmnCokYSj/Vz+5TV2ycDDHJt16U2cDkpBxiWgwM04VkpBxiWgwM04VkpBxiWgwO49ThST0jUtEg5lxqpCEMcW54PVUU58yv9BLWuMvAdcHtK8Lzm8AAAAASUVORK5CYII="/>
+    <polygon fill="#FFF" points="414.968 346.38 487.541 346.38 487.541 338.13 414.968 338.13"/>
+    <polygon fill="#5BB1F7" points="414.968 346.38 459.618 346.38 459.618 338.13 414.968 338.13"/>
+    <polygon fill="#FFF" points="414.968 363.85 528.159 363.85 528.159 355.6 414.968 355.6"/>
+    <polygon fill="#5BB1F7" points="414.968 363.85 478.321 363.85 478.321 355.6 414.968 355.6"/>
+    <path fill="#5BB1F7" d="M577.706,350.99 C577.706,360.42 570.059,368.07 560.626,368.07 C551.193,368.07 543.546,360.42 543.546,350.99 C543.546,341.56 551.193,333.91 560.626,333.91 C570.059,333.91 577.706,341.56 577.706,350.99"/>
+    <polyline fill="#FFF" points="558.957 358.93 551.402 351.38 554.733 348.05 558.957 352.27 566.519 344.71 569.85 348.04 558.957 358.93"/>
+    <g transform="translate(459 217)">
+      <mask id="man-computer-sitting-ar" fill="#fff">
+        <use xlink:href="#man-computer-sitting-ap"/>
+      </mask>
+      <polyline fill="url(#man-computer-sitting-aq)" points="81.542 46.92 .618 .2 .618 93.64 81.542 46.92" mask="url(#man-computer-sitting-ar)"/>
+    </g>
+    <path fill="#292C47" d="M242.927,348.3 C242.927,348.3 307.885,348.87 315.849,350 C324.482,351.22 358.281,352.31 362.361,358.5 C403.555,421.02 430.442,523.38 430.442,523.38 L397.886,529.79 C397.886,529.79 366.401,468.78 353.213,437.08 C341.373,408.62 331.242,401.31 306.376,401.93 C281.511,402.56 201.99,397.08 156.138,391.4 L242.927,348.3"/>
+    <path fill="#EB4747" d="M236.058,197.72 C236.058,197.72 255.33,239.2 253.77,254.61 C252.21,270.02 235.632,312.73 234.462,321.31 C233.292,329.89 241.678,346.86 241.678,346.86 L154.889,387.04 C154.889,387.04 151.392,361.64 154.889,332.38 C158.386,303.13 160.963,271.69 164.821,255.15 C177.985,198.74 212.813,175.36 212.813,175.36 L236.058,197.72"/>
+    <path fill="#323657" d="M241.678,346.86 C241.678,346.86 306.636,347.43 314.6,348.56 C323.233,349.78 357.796,350.37 361.111,357.06 C384.715,404.73 390.017,531.96 390.017,531.96 L359.649,535.64 C359.649,535.64 344.729,471.06 340.049,440.31 C335.369,409.55 329.518,405.08 304.652,405.71 C279.787,406.34 182.4,431.23 154.889,387.04 L241.678,346.86"/>
+    <path fill="#EEA886" d="M185.583,236.9 C185.772,228.87 190.438,194.2 209.993,196.57 C229.548,198.95 227.286,222.4 225.476,240.1 C223.581,258.61 213.975,304.01 217.031,306.34 C220.088,308.68 243.288,315.65 248.275,316.64 C253.262,317.64 283.337,325.02 285.808,325.71 C288.224,326.38 283.384,338.08 283.384,338.08 C283.384,338.08 200.091,335.64 186.157,329.04 C172.223,322.44 185.583,236.9 185.583,236.9"/>
+    <path fill="#EEA886" d="M285.808,325.71 C285.808,325.71 291.997,327.27 294.981,327.51 C297.965,327.74 312.089,322.14 316.483,322.95 C320.877,323.76 349.138,337.4 350.404,338.36 C351.671,339.31 349.651,341.19 349.651,341.19 L283.384,338.8 L285.808,325.71"/>
+    <polyline fill="#807066" points="368.378 351.63 258.177 347.17 258.585 337.08 368.786 341.53 368.378 351.63"/>
+    <polyline fill="#807066" points="405.688 247.83 368.413 351.63 358.906 348.21 396.181 244.41 405.688 247.83"/>
+    <path fill="#EEA886" d="M286.601,132.39 C286.601,132.39 288.681,149.42 284.065,150.14 C280.251,150.73 281.595,167.17 281.595,169.77 C281.595,172.37 274.443,171.46 272.493,172.37 C270.543,173.28 259.453,189.53 253.881,187.97 C248.309,186.41 227.44,168.56 223.54,159.14 C219.64,149.73 226.335,116.72 235.827,105.41 C245.318,94.1 282.83,102.58 286.601,132.39"/>
+    <path fill="#EEA886" d="M243.141,175.91 C243.141,175.91 242.58,177.4 241.752,179.72 C241.141,181.43 240.387,183.58 239.603,185.92 C237.48,192.26 235.16,199.95 234.984,203.71 C234.655,210.73 212.813,175.36 212.813,175.36 C212.813,175.36 220.675,154.06 225.57,129.15 C230.463,104.24 243.141,175.91 243.141,175.91"/>
+    <path fill="#434343" d="M286.921,136.03 C286.921,136.03 300.61,123.87 290.956,107.1 C281.302,90.33 247.626,99.95 244.409,99.56 C241.19,99.17 224.392,93.84 221.135,126.21 C217.877,158.59 219.93,153.73 219.93,153.73 C219.93,153.73 228.182,139.83 234.072,142.08 C239.962,144.32 250.259,145.39 250.259,145.39 C250.259,145.39 250.455,130.28 258.938,131.45 C267.422,132.62 280.217,130.05 286.921,136.03"/>
+    <path fill="#EB4747" d="M184.098,238.41 L228.747,240.02 C228.747,240.02 235.68,193.56 210.016,194.46 C184.353,195.35 184.098,238.41 184.098,238.41"/>
+    <path fill="#EEA886" d="M244.952,134.62 C244.976,132.54 245.804,123.91 237.355,125.86 C228.907,127.81 233.993,146.68 235.08,147.33 C236.168,147.97 244.755,152.07 244.952,134.62"/>
+    <polygon fill="#FAB46C" points="113.558 569.93 301.907 569.93 301.907 403.99 113.558 403.99"/>
+    <path fill="#EEA886" d="M212.813,175.36 C212.813,175.36 251.127,244.59 250.129,234.78 C249.35,227.11 232.758,190.05 232.758,190.05 L212.813,175.36"/>
+    <path fill="#A77860" d="M241.752,179.72 C241.141,181.43 240.387,183.58 239.603,185.92 C231.877,176.31 226.52,165.43 224.938,162.05 C228.094,167.79 241.752,179.72 241.752,179.72"/>
+    <polygon fill="#B8B8B8" points="208.219 479.48 241.279 479.48 241.279 468.83 208.219 468.83"/>
+    <polygon fill="#B8B8B8" points="417.473 479.48 450.533 479.48 450.533 468.83 417.473 468.83"/>
+    <polygon fill="#B8B8B8" points="625.267 479.48 658.326 479.48 658.326 468.83 625.267 468.83"/>
+    <path fill="#484E7D" d="M428.565,531.77 C428.565,531.77 443.67,538.58 450.417,540.95 C457.164,543.32 481.872,540.66 484.617,542.78 C487.361,544.9 487.476,552.91 483.504,554.31 C479.531,555.72 450.018,563 439.727,561.96 C429.437,560.92 411.326,567.87 407.004,566.96 C402.683,566.07 402.304,541.79 403.217,536.2 C404.13,530.6 428.565,531.77 428.565,531.77"/>
+    <path fill="#EEA886" d="M425.09,522.04 L428.565,531.77 C428.565,531.77 410.358,538.26 403.217,536.2 L400.831,526.28 L425.09,522.04"/>
+    <path fill="#5B639E" d="M387.847,540.42 C387.847,540.42 402.093,549.11 408.531,552.32 C414.97,555.52 439.797,556.02 442.289,558.47 C444.78,560.93 444.009,568.9 439.91,569.79 C435.811,570.68 405.701,574.16 395.598,571.82 C385.494,569.48 366.745,574.07 362.553,572.63 C358.361,571.19 360.664,547.04 362.188,541.6 C363.713,536.16 387.847,540.42 387.847,540.42"/>
+    <path fill="#EEA886" d="M385.716,530.31 L387.847,540.42 C387.847,540.42 369.052,544.55 362.188,541.6 L360.915,531.45 L385.716,530.31"/>
+  </g>
+</svg>
